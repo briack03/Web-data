@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features":[
+{"type":"Feature","geometry":{"type":"Point","coordinates":[28.953866543522132,-2.6383111319144157,0]},"properties":{"objectid":78,"layer":"Sport_Sites","type":"playground","name":"Mushaka","source":"OSM","capture":"2019","created_us":null,"created_da":null,"last_edite":null,"last_edi_1":null}}
+]}
